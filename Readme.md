@@ -2,7 +2,7 @@
 
 ## 1. Padrões de Criação:
 ___
-### 1.4 Singleton
+### 1.4 Builder
 
 #### 1.4.1 Introdução
 O Builder é um padrão de projeto criacional que permite a você construir objetos complexos passo a passo. O padrão permite que você produza diferentes tipos e representações de um objeto usando o mesmo código de construção.
